@@ -1,0 +1,183 @@
+Le immagini di tipo vettoriale perdono definizione se ingrandite.
+FALSO
+Le immagini di tipo RGB utilizzano una sintesi additiva dei colori.
+VERO
+Le immagini di tipo bitmap utilizzano una rappresentazione dei dati analoga agli schermi LCD.
+VERO
+Le immagini possono essere utilizzate per codificare una URL e leggerla tramite fotocamera.
+VERO
+I bastoncelli sono in numero diverso per ogni colore.
+FALSO
+Il nostro cervello percepisce oggetti familiari con dimensioni costanti, anche variando l'angolo visuale. 
+VERO
+L'indizio di profondità della prospettiva lineare può modificare la percezione delle dimensioni di un oggetto. 
+VERO
+Le immagini percepite dagli occhi sono perfettamente uguali. 
+FALSO
+La percezione visiva è un processo combinato di acquisizione dell'informazione dagli occhi e elaborazione da parte del cervello. 
+VERO
+La lunghezza della riga ha impatto sulla velocità di lettura.
+VERO
+Per facilitare il processo di lettura, la scelta del font e delle sue dimensioni non è influenzata dall'età media degli utenti.
+FALSO
+È possibile aumentare la leggibilità del testo aumentando il contrasto fra colore di foreground e background.
+VERO
+Il riconoscimento di una parola avviene durante la fissazione. 
+VERO
+Nel processo di lettura, nel caso una parola fosse sconosciuta al lettore, si avrà un numero maggiore di fissazioni dovuto alla scansione delle lettere.  
+VERO
+La legge di Fitts predice il tempo di movimento per puntare un oggetto date le dimensioni e la distanza da coprire tramite il puntatore. 
+VERO
+La legge di Fitts è utile per calcolare in modo preciso il tempo medio di puntamento per ogni pulsante. 
+FALSO
+È possibile modellare gli angoli attivi come punti a distanza infinita.
+FALSO
+Per calcolare il tempo di movimento è necessario conoscere la relazione fra la distanza percorsa dal mouse sulla scrivania e quella percorsa dal puntatore sullo schermo.
+FALSO
+La legge di Fitts è utilizzata dai progettisti di interfacce per privilegiare il puntamento delle funzionalità utilizzate più di frequente.
+VERO
+La memoria a breve termine organizza le informazioni in blocchi. 
+VERO
+La memoria a breve termine può essere suddivisa in più componenti per stimolo sensoriale. 
+FALSO
+La memoria a breve termine ha una rapidità intermedia sia per l'accesso che per decadimento rispetto alle altre tipologie di memoria. 
+VERO
+La memoria a breve termine passa informazioni alla memoria a lungo termine tramite il meccanismo di attenzione.
+FALSO
+Il designer di una interfaccia non può influenzare in nessun modo la formazione di chunk nella memoria a breve termine.
+FALSO
+La memoria a lungo termine permette di mantere le relazioni tra informazioni. 
+VERO
+La memoria a lungo termine ha una struttura che può essere rappresentata con vari modelli.
+VERO
+Il modello delle regole di produzione permette di esprimere le relazioni tipo-sottotipo.
+FALSO
+Il processo del riconoscimento è più difficoltoso rispetto al ricordo
+FALSO
+In generale, le persone tendono a richiamare dalla memoria a lungo termine esperienze positive e a inibire l'accesso a quelle negative. 
+VERO
+Il processo di riconoscimento è più difficoltoso rispetto al ricordo
+FALSO
+Non è possibile collocare l’errore lapsus nel modello di Normann
+FALSO
+La memoria a lungo termine conscia ci permette di gestire la coordinazione di movimenti che abbiamo imparato con la pratica, come per esempio andare in bicicletta.
+FALSO
+La capacità di risolvere un problema può essere stimolata tramite l’uso di analogie.
+VERO
+Gli operatori sono quegli stati intermedi dello spazio del problema che ci avvicinano alla soluzione.
+FALSO
+Nel caso si abbia un’intenzione corretta ma si fallisca nel metterla in atto, siamo di fronte ad un lapsus.
+FALSO
+La teoria del problem space tiene conto delle condizioni emotive della persona. 
+FALSO
+Il modello di Norman è un'estensione di quello di Abowd e Beale. 
+FALSO
+Il modello di Normann si basa sul ciclo di valutazione/esecuzione.
+VERO
+Il golfo di esecuzione rappresenta la differenza fra la presentazione del sistema e le aspettative del’ utente.
+FALSO
+Nel caso l’utente formuli un obiettivo o intenzione errati, siamo di fronte ad uno sbaglio (mistake).
+VERO
+Nella teoria del problem space, tutti gli operatori sono applicabili a prescindere dalla configurazione dello stato del problema. 
+FALSO
+La legge di Fitts stabilisce che, data una icona a distanza d, il tempo di movimento può essere raddoppiato a distanza 2d
+FALSO
+È possibile che nella memoria a lungo termine l’informazione vecchia interferisca con la nuova
+VERO
+Per facilitare la memorizzazione delle funzionalità di una applicazione è necessario utilizzare nomi più corti possibile
+FALSO
+Stabilire una analogia equivale a stabilire una funzione fra due grafi del problem space per due domini differenti.
+VERO
+Il progettista non può contrastare gli errori di tipo svista (intenzione corretta ed esecuzione dell’azione errata) nemmeno per azioni potenzialmente distruttive.
+FALSO
+Il ciclo di valutazione/esecuzione misura l'efficienza dell'utente nell'utilizzo di applicazioni interattive. 
+FALSO
+Per aumentare le possibilità di memorizzazione a breve termine, è utile aiutare l’utente nella creazione di blocchi di informazione
+VERO
+Alcune zone del nostro corpo sono più sensibili di altre agli stimoli tattili
+VERO
+Utilizzare una metafora può limitare la comprensione dell’intero sistema da parte dell’utente
+VERO
+Tutti i tipi di interfacce vocali eseguono un’interpretazione della semantica del parlato.
+FALSO
+La tecniche delle shrinking windows aiuta l’utente a gestire diverse finestre tramite il ricordo
+FALSO
+Nel caso in cui le opzioni per una scelta siano molte, il raggruppamento in ordine alfabetico aiuta la formazione di chunck in memoria a breve termine
+VERO
+Per la conferma di azioni in modalità audio, è possibile utilizzare solo toni musicali che l’utente impara ad interpretare
+FALSO
+Il mouse si basa sul riconoscimento del movimento relativo in uno spazio diverso da quello dello schermo
+VERO
+I touchscreen sono soggetti al problema dell’occlusione
+VERO
+L’occhio compensa la sovrastimolazione dovuta ad un colore con il colore opposto
+VERO
+Considerando l’utilizzo di un mouse, nella seconda fase del movimento, l’utente diminuisce la velocità per migliorare la precisione
+VERO
+Nell’ultima parte del movimento per puntare un oggetto su schermo l’utente aumenta la velocità
+FALSO
+Il carico cognitivo del puntamento di un oggetto su schermo è modellato dalla legge di Fitts
+FALSO
+Nel processo di lettura, la scelta del tipo di font non ha nessun mpatto sulla velocità di lettura
+FALSO
+Nel leggere una pagina web, l’utente sege sempre la F-shape qualsiasi sia la formattazione dei contenuti
+FALSO
+La pupilla è la parte colorata dell’occhio
+FALSO
+L’indizio della convergenza prospettica può alterare la percezione delle dimensioni di un oggetto
+VERO
+Il raggruppamento dei contenuti non ha impatto nel contrastare l’F-shape
+FALSO
+Il numero dei coni nel nostro occhio è lo stesso per tutti i colori
+FALSO
+Per facilitare il processo di lettura, la scelta della dimensione del font non dipende dalla tipologia di utente che mediantemente utilizzerà l’applicazione
+FALSO
+La distribuzione dei recettori tattili è uniforme su tutto il corpo
+FALSO
+Il ragionamento deduttivo generalizza da casi visti a casi non visti
+FALSO
+Il ragionamento deduttivo deriva conclusioni logiche dalle premesse
+VERO
+La memoria sensoriale ha il tempo di accesso più rapido rispetto alle altre tipologie
+VERO
+La memoria iconica mantiene le informazione visuali
+VERO
+La memoria sensoriale passa informazioni alla memoria a breve termine il meccanismo della ripetizione
+FALSO
+Le emozioni possono inibire le capacità di ragionamento
+VERO
+Vari sensi condividono lo stesso buffer di memoria sensoriale
+FALSO
+Secondo Miller, con l’allenamento è possibile aumentare il numero di blocchi in memoria a breve termine
+FALSO
+La memoria semantica è una parte della memoria a lungo termine eslicita
+VERO
+il modello della memoria a lungo termine delle regole di produzione permette di modellare regole del tipo condizione-azione
+VERO
+Lo stato emotivo dell’utente può aumentare il numero di errori commessi durante l’interazione
+VERO
+il ragionamento abduttivo si basa su una generalizzazione a partire da un insieme ristretto di istanze
+FALSO
+Stimolare emozioni positive può rendere più accettabili per l’utente i difetti dell’interfaccia
+VERO
+Nella memoria sensoriale, il buffer aptico mantiene le informazioni visualI
+FALSO
+Nel modello di Abowd e Beale, ogni componente ha il suo linguaggio associato
+VERO
+Nel modello di Normann, il golfo di esecuzione rappresenta la differenza fra le aspettative dell’utente e la presentazione del sistema
+FALSO
+Nel ciclo di valutazione/esecuzione, una volta formulata l’intenzione, l’utente è sempre in grado di concludere l’interazione in modo corretto
+FALSO
+Nel modello di Normann, il golfo di valutazione rappresenta la differenza fra le aspettative dell’utente e la presentazione del sistema
+VERO
+Nel modello di Normann, l’interfaccia è rappresentata in modo esplicito come un’entità
+FALSO
+Nel modello di Normann, una volta stabilita l’intenzione, la sequenza di azioni scelta non può essere sbagliata
+FALSO
+Il modello di Abowd e Beale considera la comunicazione tra sistema e interfaccia
+VERO
+Nel modello di Abowd e Beale l’articolazione di un compito può essere inibita da una assenza di indizi nella presentazione
+VERO
+
+
+
