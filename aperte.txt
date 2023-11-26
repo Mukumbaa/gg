@@ -16,7 +16,7 @@ Valuta lo stato del sistema in base all'obiettivo: l'indirizzo corrisponde a uno
 
 Domanda: Illustrare brevemente e con qualche esempio non visto a lezione come l’utilizzo di una analogia possa favorire il problem solving.
 Risposta: L'utilizzo di analogie può essere un potente strumento nel problem solving, poiché consente di trasferire conoscenze da un contesto familiare a uno meno noto, facilitando la comprensione e la soluzione di un problema.
-Supponiamo di dover spiegare cos'è un algoritmo a qualcuno che non ha conoscenze di programmazione. Potresti utilizzare un'analogia con la preparazione di una ricetta. In questo caso, l'elenco di passaggi per preparare un piatto rappresenterebbe un algoritmo che guida chiunque a cucinare il piatto.
+Supponiamo di dover spiegare cos'è un algoritmo a qualcuno che non ha conoscenze di programmazione. Potresti utilizzare un'analogia con la preparazione di una ricetta. In questo caso, l'elenco di passaggi per preparare un piatto rappresenterebbe un algoritmo che guida chiunque a cucinare il piatto. L'algoritmo è una sequenza di operazione, come la ricetta elenca un elenco di cose da fare per cucinare er piatto
 
 
 Domanda: Lo studente esponga brevemente una tipologia di errore fra le quattro viste a lezione (svista, lapsus, sbaglio, violazione), collocandolo all'interno del ciclo di valutazione/esecuzione.
