@@ -1,0 +1,71 @@
+Domanda: Si deve progettare la visualizzazione degli articoli per un sito web di news online. Lo studente descriva tre criteri da utilizzarsi per supportare la lettura su schermo delle notizie.
+Risposta: utilizzare font sans serif, con attenzione alla grandezza (intorno ai 9-12pt per il corpo dell'articolo, maggiore per i titoli).
+organizzare correttamente la pagina per contrastare la f-shape. inserire le informazioni più importanti all'inizio dell'articolo sfruttando le parole in grassetto per aiutare la comprensione e suddividere l’articolo in blocchi per facilitare la lettura.
+fare attenzione al colore di sfondo, prediligere background chiari con foreground scuri per permettere il contrasto e facilitare la lettura.
+
+                                                                     
+Domanda: Lo studente consideri la sequenza di azioni per cercare l'indirizzo "Via Ospedale 72" tramite una mappa interattiva (es. Google Maps). L'interfaccia mostra all'utente una barra di ricerca e, una volta inserito il luogo, cambia la visualizzazione della mappa mostrando i risultati della ricerca tramite dei segnaposto. Si completi la descrizione delle fasi del ciclo di valutazione/esecuzione da parte dell'utente, nel caso di assenza di errori.
+Risposta:
+Stabilisce l'obiettivo: trovare l'indirizzo "Via Ospedale 72"
+Formula l'intenzione: inserire l'indirizzo nella barra di ricerca e controllare i risultati offerti Stabilisce la sequenza di azioni: clic sinistro sulla barra di ricerca, inserire l'indirizzo, premere invio
+Esegue le azioni: clic sinistro sulla barra di ricerca, inserire l'indirizzo, premere invio
+Percepisce lo stato del sistema: la pagina cambia visualizzazione permettendoci di vedere i risultati, indicati nella mappa tramite dei segnaposto
+Interpreta lo stato del sistema: troviamo tra i risultati quello corrispondente all'indirizzo inserito nella barra di ricerca
+Valuta lo stato del sistema in base all'obiettivo: l'indirizzo corrisponde a uno dei luoghi trovati quindi l'obiettivo è stato soddisfatto
+
+
+Domanda: Illustrare brevemente e con qualche esempio non visto a lezione come l’utilizzo di una analogia possa favorire il problem solving.
+Risposta: L'utilizzo di analogie può essere un potente strumento nel problem solving, poiché consente di trasferire conoscenze da un contesto familiare a uno meno noto, facilitando la comprensione e la soluzione di un problema.
+Supponiamo di dover spiegare cos'è un algoritmo a qualcuno che non ha conoscenze di programmazione. Potresti utilizzare un'analogia con la preparazione di una ricetta. In questo caso, l'elenco di passaggi per preparare un piatto rappresenterebbe un algoritmo che guida chiunque a cucinare il piatto.
+
+
+Domanda: Lo studente esponga brevemente una tipologia di errore fra le quattro viste a lezione (svista, lapsus, sbaglio, violazione), collocandolo all'interno del ciclo di valutazione/esecuzione.
+Risposta: La svista capita quando si ha una corretta intenzione, ma si fallisce nel metterla in atto, una causa di ciò può essere una scarsa abilità fisica, o disattenzione, cambiamenti di contesto nel comportamento esperto possono causare sviste.
+Facciamo finta che l'utente voglia salvare un file su cui sta lavorando, e nell'esecuzione invece di schiacciare sull'icona per salvare preme su quella per eliminare il file, questa svista è corretta da un messaggio di richiesta conferma dell'azione di eliminazione.
+
+
+Domanda: Lo studente descriva il modello di memoria a lungo termine dei frames, fornendo un esempio di categorizzazione.
+Risposta: L’informazione è organizzata in una struttura dati, i campi della struttura sono riempiti con valori specifici per un certo esemplare, è utile per rappresentare le informazioni stereotipate di un determinato soggetto, le relazioni sono tipo-sottotipo.
+Esempio: frames per una macchina: fixed(ruote:4),Variable(porte,tipo di carburante,posti)
+
+
+Domanda: Lo studente consideri la sequenza di azioni per cancellare un file dal desktop del proprio computer, a partire dallicona, tramite menu contestuale azionato con il tasto destro del mouse. Si completi la descrizione delle lasi del cido di valutazione/esecuzione da parte dell'utente, nel caso l'utente selezioni erroneamente Topzione "Copia" dal menu contestuale.
+Risposta:
+Stabilisce l'obiettivo: L'utente vuole eliminare un file
+Formula l'intenzione: L'intenzione è quella di aprire il menu contestuale e cliccare il bottone elimina
+Stabilisce la sequenza di azioni: Cliccare con il tasto destro del mouse sul file, cliccare elimina nel menu contestuale
+Esegue le azioni: L'utente apre il menu contestuale e a causa di una svista clicca sul bottone "copia" anziché elimina
+Percepisce lo stato del sistema: il menu contestuale si chiude e si rivede il desktop
+Interpreta lo stato del sistema: L'utente analizza il desktop 
+Valuta lo stato del sistema: Analizzando il desktop l'utente si rende conto che il file è ancora presente. L'utente non ha raggiunto il suo obiettivo
+Domanda: Lo studente elenchi e discuta un esempio di corretta gestione delle informazioni visualizzate sull'interfaccia, con particolare riferimento alla gestione della memoria dell'utente.
+Risposta: Per gestire al meglio la memoria dell'utente è importante tenere la memoria a breve termine più libera possibile, per far si che l'utente raggiunga il suo obiettivo nella maniera più semplice possibile e per evitare che l’utente commetta errori.
+Ad esempio, supponendo che un utente debba acquistare un biglietto del cinema, è molto importante: Che nel momento della selezione del film siano presenti le copertine dei film, in quanto esiste la superiorità dell'immagine e quindi l'utente potrà riconoscere subito il film da lui cercato In tutte le fasi dell'acquisto del biglietto dovrebbe essere presente un riquadro che riepiloghi tutti i dati inseriti, in modo che l'utente occupi meno chunk di memoria possibili e non commetta errori. Ovviamente nell'ultima fase dell'acquisto si devono visualizzare tutti i dati inseriti. Strutturare le informazioni in blocchi/paragrafi per favorire la lettura e memorizzazione dei dati in maniera semplice e immediata.
+
+
+Domanda: Esporre brevemente quali criteri si possono seguire per presentare gli errori di compilazione di un form all'interno di una applicazione mobile. Si giustifichino i criteri tramite i contenuti del corso.
+Risposta: Nella compilazione di un form si potrebbero effettuare delle sviste, quindi è fondamentale in caso di errore segnalare all'utente dove ha commesso lo sbaglio. Per questo bisogna evidenziare il campo del form in cui si è commesso l'errore, ed evitare di scrivere un elenco di errori ammassati in una lista in cima al form. Per evidenziare il campo del form si possono usare stimoli visivi, come il colore rosso oppure un'animazione di vibrazione del form, ma anche stimoli uditivi come un suono.
+Inoltre è molto importante segnalare in maniera chiara quale sia l'errore, ad esempio se si sbaglia nell'inserimento di una nuova password bisogna scrivere qual'è stato l'errore (es: carattere non consentito, password troppo corta) e non basta scrivere "password non valida" in quanto l'utente non capirebbe il motivo
+                                                                     
+
+Domanda: Illustrare brevemente e con qualche esempio non visto a lezione come l'utilizzo di una analogia possa favorire il problem solving.
+Risposta: L'analogia è una corrispondenza tra un problema nuovo in un dominio non noto e la conoscenza relativa in un dominio noto. Una volta stabilita questa corrispondenza (ossia l'analogia), i metodi e le soluzioni si trasferiscono dal dominio noto a quello nuovo.
+Un esempio di analogia è il megafono, uno strumento utilizzato per amplificare i suoni. Nelle icone dei dispositivi è solitamente utilizzato per indicare il volume. Si genera quindi una analogia tra un oggetto reale e un'icona, legate dal fatto che tutte e due hanno a che fare con il suono
+
+
+Domanda: Lo studente descriva in sintesi il processo di lettura:
+Risposta: Il processo di lettura è una parte molto importante del processo visivo, la maggior parte delle informazioni all’interno di un interfaccia sono scritte. Il processo di lettura si divide in più stadi:
+Percezione del pattern visuale.
+Decodifica utilizzando la rappresentazione interna del linguaggio.
+Interpretazione utilizzando la conoscenza della sintassi, della semantica e della pragmatica di una lingua. 
+Il processo di lettura è diviso in serie di movimenti saccadici e di momenti di fissazione. Lo stadio della percezione si ha durante il momento di fissazione(circa il 94% del tempo).
+
+
+Domanda: Lo studente descriva il modello della memoria a lungo termine delle reti semantiche, fornendo qualche esempio di modellazione
+Risposta: E’ un modello a rete, rappresentato come un grafo diretto: possiede la caratteristica dell’ereditarietà, ovvero i nodi figli ereditano le proprietà dei nodi padri, sono presenti relazioni esplicite tra elementi informativi, e supporta la deduzione tramite ereditarietà. 
+esempio:Animale Domestico: Nodo principale: "Animale Domestico" Nodi collegati: "Cane", "Gatto", "Pappagallo", ecc. Relazioni: "È un tipo di"
+
+
+Domanda: Lo studente esponga brevemente la tipologia di errore svista, collocandolo all’interno del ciclo di valutazione/esecuzione
+Risposta: capita quando si ha una corretta intenzione, ma si fallisce nel metterla in atto, una causa di ciò può essere una scarsa abilità fisica, o disattenzione, cambiamenti di contesto nel comportamento esperto possono causare sviste.
+Nel ciclo valutazione/esecuzione si colloca nella parte di esecuzione dove l’utente esegue un’azione per distrazione (es. schiaccia l’icona per eliminare il file invece di quella per salvarlo).
