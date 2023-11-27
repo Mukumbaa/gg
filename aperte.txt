@@ -69,3 +69,11 @@ esempio:Animale Domestico: Nodo principale: "Animale Domestico" Nodi collegati: 
 Domanda: Lo studente esponga brevemente la tipologia di errore svista, collocandolo all’interno del ciclo di valutazione/esecuzione
 Risposta: capita quando si ha una corretta intenzione, ma si fallisce nel metterla in atto, una causa di ciò può essere una scarsa abilità fisica, o disattenzione, cambiamenti di contesto nel comportamento esperto possono causare sviste.
 Nel ciclo valutazione/esecuzione si colloca nella parte di esecuzione dove l’utente esegue un’azione per distrazione (es. schiaccia l’icona per eliminare il file invece di quella per salvarlo).
+
+
+Domanda: Si consideri il problema di allegare un file a una mail che si sta scrivendo. Si modelli il problema utilizzando la teoria del problem space, specificando due modi alternativi di applicare gli operatori disponibili per raggiungere l'obiettivo.
+Risposta:
+Elenco degli stati: email senza file allegato, schermata per selezionare il file, email con file allegato, schermata di messaggio di invio avvenuto con successo
+Elenco degli operatori (con le condizioni per applicarli): cliccare su seleziona file, cliccare sul file, cliccare sull'icona dell'esplora risorse, trascinare il file sull'email, cliccare su invia
+Soluzione 1: email senza file allegato- >cliccare su seleziona file->schermata per selezionare il file->cliccare sul file->email con il file allegato->cliccare su invia- >schermata di messaggio di invio avvenuto con successo
+Soluzione 2: email senza file allegato- >cliccare sull'icona dell'esplora risorse- >schermata per selezionare il file->trascinare il file sull'email->email con il file allegato->cliccare su invia->schermata di messaggio di invio avvenuto con successo
